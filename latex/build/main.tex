@@ -1,0 +1,60 @@
+\documentclass[a4paper,12pt]{article}
+
+\usepackage{fontspec}
+\setmainfont{Segoe UI}
+
+\usepackage[a4paper, margin=1in]{geometry}
+\usepackage{lipsum}
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{hyperref}
+\usepackage{pdftexcmds}
+\usepackage{float}
+\usepackage{cleveref}
+\usepackage[acronym]{glossaries}
+\usepackage[backend=biber,style=ieee]{biblatex}
+\addbibresource{../src/references.bib}
+
+\hypersetup{
+    colorlinks=false,
+    hidelinks,
+    pdftitle={Your Title Here},
+    pdfpagemode=FullScreen,
+}
+
+\crefname{figure}{Fig}{Figs}
+\captionsetup[figure]{labelformat=simple, labelsep=period, name=Fig}
+
+\title{Your Title Here}
+\author{Your Name \\ Department of XYZ \\ University of ABC}
+\date{\today}
+
+\begin{document}
+
+\pagenumbering{gobble}
+
+\maketitle
+\clearpage
+
+\begin{abstract}
+    Your abstract here.
+\end{abstract}
+\clearpage
+
+\tableofcontents
+\listoffigures
+\listoftables
+\clearpage
+
+% Include sections
+\input{../src/introduction}
+\input{../src/methodology}
+\input{../src/results}
+\input{../src/discussion}
+\input{../src/conclusion}
+
+\printbibliography{}
+
+\end{document}
