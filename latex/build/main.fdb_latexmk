@@ -1,25 +1,25 @@
 # Fdb version 4
-["biber main"] 1737830507.56353 "main.bcf" "main.bbl" "main" 1738010413.99496 0
-  "../src/references.bib" 1737825680 1005 955e94350f8cdfa324e546868cedfd19 ""
-  "main.bcf" 1738010411 107830 72a4bfc55e43bc99a5c48b64e811041a "xelatex"
+["biber main"] 1738017142.96673 "main.bcf" "main.bbl" "main" 1738017270.02548 0
+  "../src/references.bib" 1738016323 1020 955e94350f8cdfa324e546868cedfd19 ""
+  "main.bcf" 1738017268 107830 72a4bfc55e43bc99a5c48b64e811041a "xelatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["xdvipdfmx"] 1738010412.208 "main.xdv" "main.pdf" "main" 1738010414.00182 0
-  "main.xdv" 1738010411 62032 3d353507b1e919c42ae360d0417fba2e "xelatex"
+["xdvipdfmx"] 1738017268.42849 "main.xdv" "main.pdf" "main" 1738017270.0349 0
+  "main.xdv" 1738017268 17296 c87bd868cf250648996db96e4cc26763 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1738010408.15395 "c:/Users/Jespe/OneDrive/Dokument/Skola/ex-jobb/latex/build/main.tex" "main.xdv" "main" 1738010413.99526 0
-  "../images/1475939459162.jpg" 1476163558 1074971 30eebfc64fcf72c6f1b8770dd2b7b27f ""
-  "../images/614690.jpg" 1589831868 726326 83d32b13b054de758d664e709f576f89 ""
-  "../src/conclusion.tex" 1737824542 43 015c61b9c5c4340139897be2c6a3abf3 ""
-  "../src/discussion.tex" 1737832515 48 2e4b874ce7c8be3f5d4aa97b146bea61 ""
-  "../src/introduction.tex" 1738009421 112 2f65ec0f30907d75f95bf81baacdb813 ""
-  "../src/methodology.tex" 1737833079 48 48a49e365c811adbfe6041d45f29d40c ""
-  "../src/results.tex" 1738010406 562 b80d15700e3f1eada2c06a1da4106a00 ""
-  "c:/Users/Jespe/OneDrive/Dokument/Skola/ex-jobb/latex/build/main.tex" 1738009460 1209 be30fa91f26bd1a42e559150c104a5c0 ""
+["xelatex"] 1738017264.58821 "c:/Users/Jespe/OneDrive/Dokument/Skola/ex-jobb/latex/build/main.tex" "main.xdv" "main" 1738017270.02583 0
+  "../images/1475939459162.jpg" 1738016323 1074971 30eebfc64fcf72c6f1b8770dd2b7b27f ""
+  "../images/614690.jpg" 1738016323 726326 83d32b13b054de758d664e709f576f89 ""
+  "../src/conclusion.tex" 1738016323 43 015c61b9c5c4340139897be2c6a3abf3 ""
+  "../src/discussion.tex" 1738016323 48 2e4b874ce7c8be3f5d4aa97b146bea61 ""
+  "../src/introduction.tex" 1738017258 138 866f537487d3eb48d670f95b7203a574 ""
+  "../src/methodology.tex" 1738017121 45 964273f592a7cad678fe9e7843c04fba ""
+  "../src/results.tex" 1738016323 562 b80d15700e3f1eada2c06a1da4106a00 ""
+  "c:/Users/Jespe/OneDrive/Dokument/Skola/ex-jobb/latex/build/main.tex" 1738016323 1209 be30fa91f26bd1a42e559150c104a5c0 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1737808825 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1737814883 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1737806020 1004 54797486969f23fa377b128694d548df ""
@@ -151,14 +151,14 @@
   "c:/texlive/2024/texmf-dist/web2c/texmf.cnf" 1737805834 42021 a58d36c7ede3d2fc9f93da62d691ddff ""
   "c:/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt" 1737815364 5904794 d17a57bdaa5122139a04a266469c1ddf ""
   "c:/texlive/2024/texmf.cnf" 1737814935 713 e69b156964470283e0530f5060668171 ""
-  "main.aux" 1738010411 1703 edce8bb443d81af437684735b6b08962 "xelatex"
-  "main.bbl" 1738010344 6368 95e3fe7da558dfed4e2f2714e5633fc7 "biber main"
-  "main.lof" 1738010411 96 118ed5157a2bc5e8cfc73000805d0eb8 "xelatex"
-  "main.lot" 1738010411 94 747d8b090956a7bd7b4a9ad404691369 "xelatex"
-  "main.out" 1738010411 465 1b9fa6ab19b90f9eed2a28f1d3455155 "xelatex"
-  "main.run.xml" 1738010411 2444 ac79922f583c0163e3b5b55b4275c343 "xelatex"
-  "main.tex" 1738009460 1209 be30fa91f26bd1a42e559150c104a5c0 ""
-  "main.toc" 1738010411 330 0c125eaadab4ea8f02aaed4a745968e1 "xelatex"
+  "main.aux" 1738017268 1703 f6317c69c9457de7026dde74dcf84e91 "xelatex"
+  "main.bbl" 1738017156 6368 95e3fe7da558dfed4e2f2714e5633fc7 "biber main"
+  "main.lof" 1738017268 96 0b5e3884aa0204b3735e25a62b51a1f9 "xelatex"
+  "main.lot" 1738017268 94 7a7da3c19aa707d3e4ed0901470aeab0 "xelatex"
+  "main.out" 1738017268 465 1b9fa6ab19b90f9eed2a28f1d3455155 "xelatex"
+  "main.run.xml" 1738017268 2444 ac79922f583c0163e3b5b55b4275c343 "xelatex"
+  "main.tex" 1738016323 1209 be30fa91f26bd1a42e559150c104a5c0 ""
+  "main.toc" 1738017268 330 286d211a16968ea06592beb99eb2c2f5 "xelatex"
   (generated)
   "main.aux"
   "main.bcf"

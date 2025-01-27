@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.25)  27 JAN 2025 21:40
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.25)  27 JAN 2025 23:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -898,20 +898,18 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 [3
 
-] (../src/introduction.tex
-
-[1
-
-]) (../src/methodology.tex) (../src/results.tex
+] (../src/introduction.tex) (../src/methodology.tex) (../src/results.tex
 File: ../images/614690.jpg Graphic file (type bmp)
 <../images/614690.jpg>
 File: ../images/1475939459162.jpg Graphic file (type bmp)
 <../images/1475939459162.jpg>
 ) (../src/discussion.tex
 
-[2]) (../src/conclusion.tex)
+[1
 
-[3] (./main.aux)
+]) (../src/conclusion.tex)
+
+[2] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
@@ -925,10 +923,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  27124 strings out of 473846
  528157 string characters out of 5733563
- 1524832 words of memory out of 5000000
+ 1512832 words of memory out of 5000000
  49814 multiletter control sequences out of 15000+600000
  566657 words of font info for 93 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  91i,6n,93p,2456b,5038s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (6 pages, 62032 bytes).
+Output written on main.xdv (5 pages, 17296 bytes).
