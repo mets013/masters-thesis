@@ -1,0 +1,25 @@
+########## NAME
+simple_model
+########## METADATA
+timeunit = m
+########## MACROS
+########## STATES
+ddt_A = k_in-r1
+ddt_B = r1-r2
+
+A(0) = 1
+B(0) = 0
+########## PARAMETERS
+k_in = 3
+k1 = 2
+k2 = 1
+########## VARIABLES
+r1 = A*k1
+r2 = B*k2
+########## FUNCTIONS
+########## EVENTS
+########## OUTPUTS
+########## INPUTS
+########## FEATURES
+y_A = A
+y_B = B

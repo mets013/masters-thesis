@@ -1,0 +1,161 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{fooHumanISL1Ventricular2018}{article}{}{}
+      \name{author}{20}{}{%
+        {{hash=87b3bbdf32036dc3c34a90a175187576}{%
+           family={Foo},
+           familyi={F\bibinitperiod},
+           given={Kylie\bibnamedelima S.},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=926fe25ee17d920f476b08b7db864b88}{%
+           family={Lehtinen},
+           familyi={L\bibinitperiod},
+           given={Miia\bibnamedelima L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=e45c23475ad066d634c94a05b60b735e}{%
+           family={Leung},
+           familyi={L\bibinitperiod},
+           given={Chuen\bibnamedelima Yan},
+           giveni={C\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=434a99ba850d6fe97cb6b05be4ad9579}{%
+           family={Lian},
+           familyi={L\bibinitperiod},
+           given={Xiaojun},
+           giveni={X\bibinitperiod}}}%
+        {{hash=14151ca8f9490ea09f6125e53e92e655}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Jiejia},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1eca29a923fee3aeb85487edf0944ede}{%
+           family={Keung},
+           familyi={K\bibinitperiod},
+           given={Wendy},
+           giveni={W\bibinitperiod}}}%
+        {{hash=c9b1a3162ae1f2af7eeb72d619af502e}{%
+           family={Geng},
+           familyi={G\bibinitperiod},
+           given={Lin},
+           giveni={L\bibinitperiod}}}%
+        {{hash=ef4e350a732fdb6a2d9c3e6b0e4a5c7c}{%
+           family={Kolstad},
+           familyi={K\bibinitperiod},
+           given={Terje\bibnamedelima R.S.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=e67bc6a267d5eb2079c1410e792481a8}{%
+           family={Thams},
+           familyi={T\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5d35a7ea526712db0683c5dbcfae7036}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Andy\bibnamedelima On-tik},
+           giveni={A\bibinitperiod\bibinitdelim O\bibinithyphendelim t\bibinitperiod}}}%
+        {{hash=ef32bf46370bcb9a374cf3c35aee9fac}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Nicodemus},
+           giveni={N\bibinitperiod}}}%
+        {{hash=e78bfc16bf62ff807c4e4923ea6b4172}{%
+           family={Bylund},
+           familyi={B\bibinitperiod},
+           given={Kristine},
+           giveni={K\bibinitperiod}}}%
+        {{hash=573b7496201c676c343351fb6aff430b}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Chikai},
+           giveni={C\bibinitperiod}}}%
+        {{hash=812313faf3edc838b993f9a886df524f}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Xiaobing},
+           giveni={X\bibinitperiod}}}%
+        {{hash=8203e348454ec332db4dce0c2a6a0c8a}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Shao-Bo},
+           giveni={S\bibinithyphendelim B\bibinitperiod}}}%
+        {{hash=102726376090f8476fb17ec19ba4fd73}{%
+           family={Clarke},
+           familyi={C\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f45b2d872bc459050b03402ace6d388f}{%
+           family={Lendahl},
+           familyi={L\bibinitperiod},
+           given={Urban},
+           giveni={U\bibinitperiod}}}%
+        {{hash=c66d8702a71575952af5883b14db0011}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Ronald\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=ca7f5cec3c460e7d3274825e1c522d49}{%
+           family={Louch},
+           familyi={L\bibinitperiod},
+           given={William\bibnamedelima E.},
+           giveni={W\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=658fc6fcf6b14f47c816491450320ceb}{%
+           family={Chien},
+           familyi={C\bibinitperiod},
+           given={Kenneth\bibnamedelima R.},
+           giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{9f69dd18391bc3d4ed817e9aed6dc8f8}
+      \strng{fullhash}{35296330e77d423834529fc106ac6f80}
+      \strng{fullhashraw}{35296330e77d423834529fc106ac6f80}
+      \strng{bibnamehash}{9f69dd18391bc3d4ed817e9aed6dc8f8}
+      \strng{authorbibnamehash}{9f69dd18391bc3d4ed817e9aed6dc8f8}
+      \strng{authornamehash}{9f69dd18391bc3d4ed817e9aed6dc8f8}
+      \strng{authorfullhash}{35296330e77d423834529fc106ac6f80}
+      \strng{authorfullhashraw}{35296330e77d423834529fc106ac6f80}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{15250016}
+      \field{journaltitle}{Molecular Therapy}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{7}
+      \field{title}{Human {{ISL1}}+ {{Ventricular Progenitors Self-Assemble}} into an {{In Vivo Functional Heart Patch}} and {{Preserve Cardiac Function Post Infarction}}}
+      \field{urlday}{25}
+      \field{urlmonth}{1}
+      \field{urlyear}{2025}
+      \field{volume}{26}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{1644\bibrangedash 1659}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/j.ymthe.2018.02.012
+      \endverb
+      \verb{file}
+      \verb C:\Users\Jespe\Zotero\storage\UT6NFJ7C\Foo et al. - 2018 - Human ISL1+ Ventricular Progenitors Self-Assemble into an In Vivo Functional Heart Patch and Preserv.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
