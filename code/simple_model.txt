@@ -1,7 +1,7 @@
 ########## NAME
 simple_model
 ########## METADATA
-timeunit = m
+time_unit = m
 ########## MACROS
 ########## STATES
 ddt_A = k_in-r1
